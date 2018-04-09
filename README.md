@@ -1,4 +1,4 @@
-# Mass Lession Classification — Predicting whether a mammogram mass is benign or malignant
+# Mass Lesion Classification — Predicting whether a mammogram mass is benign or malignant
 
 The project will focus on mammography which is considered the most effective method for detecting breast cancer. The problem is that the low positive predictive value of breast
 biopsy resulting from mammogram interpretation leads to approximately

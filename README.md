@@ -14,3 +14,12 @@ The Mammographic Mass Data Set has been acquired from the UCI repository. This d
 4.    Margin: mass margin: circumscribed=1 microlobulated=2 obscured=3 ill-defined=4 spiculated=5 (nominal)
 5.    Density: mass density high=1 iso=2 low=3 fat-containing=4 (ordinal)
 6.    Severity: benign=0 or malignant=1 (binominal)
+
+The following algorithmic models will be:
+
+- KNN
+- Logistic Regression
+- Naive Bayes
+- SVM
+- Random forest
+- A neural network using Keras.
